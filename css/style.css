@@ -1,0 +1,44 @@
+
+
+.card-title {
+    text-align: center;
+    font-weight: bolder ;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.rounded-circle {
+    height: 100px;
+    width: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.content {
+    padding: 25px;
+}
+
+#profile {
+    height:200px;
+    width: 200px;
+}
+
+#about {
+    max-width: 100%;
+    margin: 20px;
+}
+
+#project {
+    margin-top: 15px;
+}
+
+#project-title {
+    text-align: left;
+}
+
+#project-text {
+    text-align: left;
+}
